@@ -1,0 +1,1 @@
+Deploying Strapi API in Heroku: https://strapi.io/documentation/developer-docs/latest/setup-deployment-guides/deployment/hosting-guides/heroku.html
